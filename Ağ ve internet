@@ -1,0 +1,24 @@
+iptv lerde bilindiği uzere 30 40 saniyelik gecikmeler mevcut bu gecikmeyi kendi pc me nasıl uygularım bu ip aralıgı değiştirerek mesela 192.168.x.xx modemin kendi ip havuzu bunu modemin ara yuzunden değitirebiliriz -88.198.248.254- yaparsak ms değerimiz artmıiş oluyor ancak bunu dediğim gibi 10-15 sn e (6-7 sn olsa bile okeyim)  cikartarak canlı maçları donmadan vs izlemek mumkun bu konuda yardımınıza ihtiyacım var
+Yardımcı olurmusnuz ? 
+bir çok form sitelerinede konu  başlıgı açtım hatta atıl hoca ve sizin discord kanalınızda da paylaştım ancak geri donüş sağlanılamadı 
+
+
+bu ip adresslerinide kendim cmd ping toolu ile ping atıp MSlerini ölçtüm 
+1 <1 ms <1 ms <1 ms ARCHER_VR600 [192.168.1.1]
+2 7 ms 7 ms 7 ms 172.17.1.3
+3 21 ms 18 ms 19 ms 193.192.119.57
+4 15 ms 15 ms 15 ms 193.192.119.58
+5 21 ms 19 ms 17 ms 61.195.70.95.static.turk.net [95.70.195.61]
+6 17 ms * * 159.146.100.22
+7 44 ms 43 ms 43 ms hu0-5-0-0.rcr21.ist01.atlas.cogentco.com [149.14.44.17]
+8 43 ms 52 ms 57 ms be3348.ccr31.sof02.atlas.cogentco.com [154.54.57.74]
+9 47 ms 47 ms 47 ms be3421.ccr51.beg03.atlas.cogentco.com [130.117.0.94]
+10 46 ms 46 ms 46 ms be3464.ccr52.vie01.atlas.cogentco.com [154.54.59.189]
+11 43 ms 43 ms 43 ms ae-14.r01.vienat01.at.bb.gin.ntt.net [129.250.9.129]
+12 56 ms 56 ms 55 ms ae-1.r00.vienat01.at.bb.gin.ntt.net [129.250.2.36]
+13 58 ms 56 ms 57 ms ae-10.r25.frnkge08.de.bb.gin.ntt.net [129.250.4.145]
+14 57 ms 57 ms 57 ms ae-2.r01.frnkge13.de.bb.gin.ntt.net [129.250.2.101]
+15 55 ms 55 ms 55 ms 213.198.82.130
+16 61 ms 61 ms 60 ms core12.nbg1.hetzner.com [213.239.252.26]
+17 61 ms 60 ms 60 ms juniper3.dc1.nbg1.hetzner.com [213.239.247.229]
+18 60 ms 60 ms 61 ms nbg.icmp.hetzner.com [88.198.248.254]
